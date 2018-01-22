@@ -1,2 +1,2 @@
 ## Arc Custom GTK Theme ##
-Works perfectly on MATE. On the next versions, I'll make it work on GNOME, XFCE, Cinnamon, KDE plasma and maybe Openbox.
+There is a custom version of Arc Gtk Theme, mixed with Arc-OSX. Works nice on MATE and Gnome. At this moment I'm trying to make it work with LXDE and XFCE.
