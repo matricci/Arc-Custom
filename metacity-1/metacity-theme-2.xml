@@ -11,13 +11,13 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_title_focused" value="#5c616c" />
-<constant name="C_title_unfocused" value="#A5AAB7" />
+<constant name="C_title_focused" value="#5c5c5c" />
+<constant name="C_title_unfocused" value="#a5a5a5" />
 
-<constant name="C_wm_bg_focused" value="#E7E8EB" />
-<constant name="C_wm_bg_unfocused" value="#E7E8EB" />
+<constant name="C_wm_bg_focused" value="#EFEFEF" />
+<constant name="C_wm_bg_unfocused" value="#EFEFEF" />
 
-<constant name="C_wm_highlight" value="#E7E8EB" />
+<constant name="C_wm_highlight" value="#EFEFEF" />
 
 
 <!-- geometries -->
